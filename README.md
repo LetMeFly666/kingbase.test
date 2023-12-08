@@ -4,7 +4,7 @@ KingbaseES  unit test cases | 金仓数据库测试套件（手工收集整理�
 
 ## How to use
 
-```canuse```是一些常用的数据表的建表操作。
+```common```是一些常用的数据表的建表操作。
 
 ```test/simple```下是简单的测试用例，每种类型只有一个。
 
